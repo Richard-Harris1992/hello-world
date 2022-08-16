@@ -6,3 +6,4 @@ if (richardLearnsSQL == false) {
   System.out.println("FAIL");
  }//end if.
  **This is all**
+This is an edit, trying out the github tutorial before my perScholas bootcamp.
